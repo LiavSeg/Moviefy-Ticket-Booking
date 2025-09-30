@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<movies>
+  <movie>
+    <title>Oppenheimer</title>
+    <genre>Drama</genre>
+    <duration>180</duration>
+    <releaseYear>2023</releaseYear>
+    <language>English</language>
+    <description>The story of J. Robert Oppenheimer and the atomic bomb.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/8GxvP3Ymsxg9xVYi0pUTfTC5gTg.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Barbie</title>
+    <genre>Comedy</genre>
+    <duration>114</duration>
+    <releaseYear>2023</releaseYear>
+    <language>English</language>
+    <description>Barbie ventures into the real world in this vibrant adventure.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Dune: Part Two</title>
+    <genre>Sci-Fi</genre>
+    <duration>166</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>Paul Atreides allies with the Fremen in his path to vengeance and destiny.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Inside Out 2</title>
+    <genre>Animation</genre>
+    <duration>100</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>Riley navigates teenage emotions as new ones join the mix.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/gg6C6MwqgrgFdk6JZzjH2VbEabQ.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Godzilla x Kong: The New Empire</title>
+    <genre>Action</genre>
+    <duration>115</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>Two titans unite against a hidden threat beneath the surface.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/fypydCipcWDKDTTCoPucBsdGYXW.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Challengers</title>
+    <genre>Romance</genre>
+    <duration>131</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>A love triangle unfolds around a tennis competition.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/hm1Y84Sg2csWpFqkz1zXEX04Tqc.jpg</image_url>
+  </movie>
+  <movie>
+    <title>The Fall Guy</title>
+    <genre>Comedy</genre>
+    <duration>126</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>A stuntman is pulled back into a chaotic world of action and love.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Kung Fu Panda 4</title>
+    <genre>Animation</genre>
+    <duration>94</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>Po faces a new villain and trains his successor as Dragon Warrior.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/4X3yG3uI9l79gUfq3CA7VvA6ytC.jpg</image_url>
+  </movie>
+  <movie>
+    <title>The First Omen</title>
+    <genre>Horror</genre>
+    <duration>119</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>A prequel to the classic horror, revealing the rise of evil.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/9GJCa3X3X0Gm6SEbcd3lr3flGBX.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Abigail</title>
+    <genre>Horror</genre>
+    <duration>109</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>A group kidnaps a girl unaware she's a vampire ballerina.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/2ii07lSwHarg0gWnJoCYL3Gyd1j.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Civil War</title>
+    <genre>Thriller</genre>
+    <duration>108</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>In a near-future America torn apart, journalists document the chaos.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg</image_url>
+  </movie>
+  <movie>
+    <title>The Garfield Movie</title>
+    <genre>Animation</genre>
+    <duration>101</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>Garfield reunites with his street cat dad in this animated reboot.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/z4nc6kqUVCUqMyl9X4y3o6W9nD3.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Immaculate</title>
+    <genre>Horror</genre>
+    <duration>89</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>A nun joins a mysterious convent in rural Italy.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/5PZAxzLJ391FjT3Kn47H1EOGnHz.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Ghostbusters: Frozen Empire</title>
+    <genre>Fantasy</genre>
+    <duration>115</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>The Ghostbusters face a new icy threat in New York City.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/A0u1s2oXGB3Yh5SS7z1Wmq9kffz.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Monkey Man</title>
+    <genre>Action</genre>
+    <duration>121</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>Dev Patel directs and stars in this tale of vengeance and rage.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/9i3q4Pj4xWjIsVdrECz8pLhX1vd.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Back to Black</title>
+    <genre>Biography</genre>
+    <duration>102</duration>
+    <releaseYear>2024</releaseYear>
+    <language>English</language>
+    <description>The life and legacy of singer Amy Winehouse.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/sF1PH2JxfHVeAHR8WbG8vBtKH8R.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Wonka</title>
+    <genre>Family</genre>
+    <duration>117</duration>
+    <releaseYear>2023</releaseYear>
+    <language>English</language>
+    <description>The origin story of Willy Wonka and his chocolate factory.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Shrek 2 (Re-release)</title>
+    <genre>Animation</genre>
+    <duration>93</duration>
+    <releaseYear>2004</releaseYear>
+    <language>English</language>
+    <description>The ogre returns to meet Fiona’s royal parents—now in theaters again!</description>
+    <image_url>https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg</image_url>
+  </movie>
+  <movie>
+    <title>Poor Things</title>
+    <genre>Drama</genre>
+    <duration>141</duration>
+    <releaseYear>2023</releaseYear>
+    <language>English</language>
+    <description>A woman is reanimated by an unorthodox scientist in this surreal film.</description>
+    <image_url>https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg</image_url>
+  </movie>
+</movies>

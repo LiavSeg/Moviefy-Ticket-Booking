@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<movies>
+  <movie>
+    <title>Dead of Winter</title>
+    <genre>Thriller</genre>
+    <duration>120</duration>
+    <releaseDate>2025-09-26</releaseDate>
+    <language>English</language>
+    <description>A widowed fisherwoman, while trapped in a Minnesotan blizzard, interrupts the kidnapping of a teenager and soon finds she is the young victim's only hope.</description>
+    <imageUrl>https://image.tmdb.org/t/p/original/dFp5hzl7vjFtlZL7LiaD8mpeqap.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=klGRM4Qs-gk</trailerUrl>
+  </movie>
+  <movie>
+    <title>Demon Slayer: Kimetsu no Yaiba Infinity Castle</title>
+    <genre>Animation</genre>
+    <duration>155</duration>
+    <releaseDate>2025-09-11</releaseDate>
+    <language>Ja</language>
+    <description> The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=x7uLutVRBfI</trailerUrl>
+  </movie>
+  <movie>
+    <title>Mobile Suit Gundam: Iron-Blooded Orphans - Urdr Hunt: Path of the Little Challenger</title>
+    <genre>Action</genre>
+    <duration>120</duration>
+    <releaseDate>2025-10-31</releaseDate>
+    <language>Japanese</language>
+    <description>An animated spinoff from the Mobile Suit Gundam: Iron-Blooded Orphans, this feature length film compiles the ONA footage from the &quot;Mobile Suit Gundam: Iron-Blooded Orphans – Urðr Hunt&quot; mobile game.</description>
+    <imageUrl>https://image.tmdb.org/t/p/original/nZjyDwomu6c19G9qFq8TmaHlGwo.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=H3T3kTjYUQ8</trailerUrl>
+  </movie>
+
+  <movie>
+    <title>One Battle After Another</title>
+    <genre>Action</genre>
+    <duration>201</duration>
+    <releaseDate>2025-09-25</releaseDate>
+    <language>English</language>
+    <description>When their evil nemesis resurfaces after 16 years, a band of ex-revolutionaries reunite to rescue the daughter of one of their own.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7U8V3o2585Q9m04wU9yUOjYflQF.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=kQUPdVxZNPk</trailerUrl>
+  </movie>
+
+  <movie>
+    <title>Good Boy</title>
+    <genre>Horror</genre>
+    <duration>120</duration>
+    <releaseDate>2025-10-03</releaseDate>
+    <language>English</language>
+    <description>A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.</description>
+    <imageUrl>https://image.tmdb.org/t/p/original/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=q4-CRkd_74g</trailerUrl>
+  </movie>
+  <movie>
+    <title>Mortal Kombat II</title>
+    <genre>Action</genre>
+    <duration>116</duration>
+    <releaseDate>2025-10-23</releaseDate>
+    <language>English</language>
+    <description>The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGamD2f6xEZJSoXlntAd5wvQnWZ.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=9Nc4M2Ok-KE</trailerUrl>
+  </movie>
+
+
+  <movie>
+    <title>One Battle After Another</title>
+    <genre>Action</genre>
+    <duration>120</duration>
+    <releaseDate>2025-09-26</releaseDate>
+    <language>English</language>
+    <description>When their evil nemesis resurfaces after 16 years, a band of ex-revolutionaries reunite to rescue the daughter of one of their own.</description>
+    <imageUrl>https://image.tmdb.org/t/p/original/7U8V3o2585Q9m04wU9yUOjYflQF.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=kQUPdVxZNPk</trailerUrl>
+  </movie>
+  <movie>
+    <title>Koi ni Itaru Yamai</title>
+    <genre>Drama</genre>
+    <duration>120</duration>
+    <releaseDate>2025-10-24</releaseDate>
+    <language>Japanese</language>
+    <description>This film is a love story centered around the clumsy yet earnest first love of shy high school boy Nozumu and Kei, a popular girl in his class. It is intertwined with the suspicious death of a classmate, a suicide attempt, and frightening suspicions about a lover.</description>
+    <imageUrl>https://image.tmdb.org/t/p/original/2aCjoTTxk7H6glMUqm21szp1YGC.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=rDCL1Y-0ffQ</trailerUrl>
+  </movie>
+  <movie>
+    <title>TRON: Ares</title>
+    <genre>Sci-Fi</genre>
+    <duration>120</duration>
+    <releaseDate>2025-10-10</releaseDate>
+    <language>English</language>
+    <description>A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.</description>
+    <imageUrl>https://image.tmdb.org/t/p/original/lyq8uQzxWTCIxWEKuxyQPrbVu40.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=YShVEXb7-ic</trailerUrl>
+  </movie>
+
+  <movie>
+    <title>Predator: Badlands</title>
+    <genre>Sci-Fi</genre>
+    <duration>120</duration>
+    <releaseDate>2025-11-06</releaseDate>
+    <language>English</language>
+    <description>In the future on a remote planet, a young Predator, outcast from his clan, finds an unlikely ally in Thia and embarks on a treacherous journey in search of the ultimate adversary.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxhavGoVhMW08rtOyJ0W5GmYtGG.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=43R9l7EkJwE</trailerUrl>
+  </movie>
+
+  <movie>
+    <title>The Running Man </title>
+    <genre>Sci-Fi</genre>
+    <duration>120</duration>
+    <releaseDate>2025-11-06</releaseDate>
+    <language>English</language>
+    <description>Desperate to save his sick daughter, a working-class dad joins a deadly spectator sport where the longer he stays alive, the bigger the payout. Between the assassins chasing him and the showrunners betting against him, he’s about to find out there’s much more at stake than the prize money.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=KD18ddeFuyM</trailerUrl>
+  </movie>
+
+  <movie>
+    <title>Wicked: For Good</title>
+    <genre>Romance</genre>
+    <duration>120</duration>
+    <releaseDate>2025-11-20</releaseDate>
+    <language>English</language>
+    <description>As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w600_and_h900_bestv2/si9tolnefLSUKaqQEGz1bWArOaL.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=vt98AlBDI9Y</trailerUrl>
+  </movie>
+</movies>

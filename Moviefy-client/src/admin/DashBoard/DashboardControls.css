@@ -1,0 +1,76 @@
+.date-type-picker-bar {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.date-type-picker-bar label {
+  color: #ffc857;
+  font-weight: bold;
+}
+
+.range-pickers {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem; 
+}
+
+.date-type-picker-bar input {
+  background-color: #333;
+  color: #f4f4f4;
+  border: 1px solid #555;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+}
+
+
+.type-picker-inline {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.type-picker-inline label {
+  color: #ffc857;
+  font-weight: bold;
+}
+
+.type-picker-inline select {
+  background-color: #333;
+  color: #f4f4f4;
+  border: 1px solid #555;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+}
+
+.export-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.export-toolbar select {
+  background-color: #333;
+  color: #f4f4f4;
+  border: 1px solid #555;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+}
+
+.export-btn {
+  background-color: #ffc857;
+  color: #1a1a1a;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.export-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

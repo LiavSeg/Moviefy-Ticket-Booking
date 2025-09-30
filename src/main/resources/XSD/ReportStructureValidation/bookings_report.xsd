@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
+
+    <xs:element name="bookingsReport">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="generatedAt" type="xs:dateTime"/>
+                <xs:element name="range">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="from" type="xs:dateTime"/>
+                            <xs:element name="to" type="xs:dateTime"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="total" type="xs:int"/>
+                <xs:element name="booking" maxOccurs="unbounded" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="bookingId" type="xs:string"/>
+                            <xs:element name="userId" type="xs:string"/>
+                            <xs:element name="username" type="xs:string"/>
+                            <xs:element name="movieTitle" type="xs:string"/>
+                            <xs:element name="showtime" type="xs:dateTime"/>
+                            <xs:element name="theater" type="xs:string"/>
+                            <xs:element name="seats">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="seat" type="xs:string" maxOccurs="unbounded"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="price" type="xs:decimal"/>
+                            <xs:element name="createdAt" type="xs:dateTime"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

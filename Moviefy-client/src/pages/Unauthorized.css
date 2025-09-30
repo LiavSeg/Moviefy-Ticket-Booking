@@ -1,0 +1,36 @@
+.unauth-wrapper {
+  min-height: 60vh;
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+}
+.unauth-card {
+  max-width: 560px;
+  width: 100%;
+  background: #0f172a; 
+  color: #e2e8f0;
+  border: 1px solid #334155;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,.35);
+}
+.unauth-card h1 {
+  margin: 0 0 0.75rem 0;
+  font-size: 1.75rem;
+}
+.unauth-card p { margin: 0 0 1.5rem 0; color: #94a3b8; }
+.unauth-actions { display: flex; gap: .75rem; flex-wrap: wrap; }
+
+.btn {
+  display: inline-block;
+  padding: .6rem 1rem;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background: #2563eb;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn:hover { filter: brightness(1.08); }
+.btn-secondary { background: #64748b; }
+.btn-outline { background: transparent; border-color: #475569; color: #e2e8f0; }

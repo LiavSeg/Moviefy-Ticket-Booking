@@ -1,0 +1,48 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: Moviefy
+  datasource:
+    url: jdbc:postgresql://localhost:5432/moviefy_db
+    username: moviefy_db
+    password: moviefy_db
+    driverClassName: org.postgresql.Driver
+    admin:
+      url: jdbc:postgresql://localhost:5432/postgres
+      username: postgres
+      password: <YourAdminPostgerSQLServerPassword>
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      ddl-auto: update # Creates our db schema using the entities
+  sql:
+    init:
+      mode: always
+
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: MoviefyService@gmail.com    # ${MAIL_PASSWORD}  # full email address  # no need env vars
+    password: <YourAppPassGmail> # ${MAIL_PASSWORD}      # APP PASSWORD  # no need env vars
+    default-encoding: UTF-8
+    properties:
+      mail:
+        transport.protocol: smtp
+        debug: true
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+          connectiontimeout: 10000
+          timeout: 10000
+          writetimeout: 10000
+
+# Keep the visible From EXACTLY the login mailbox for now
+app:
+  mail:
+    from: ${spring.mail.username}

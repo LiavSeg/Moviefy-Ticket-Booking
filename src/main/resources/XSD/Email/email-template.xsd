@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="https://moviefy.example/schema/email"
+            xmlns="https://moviefy.example/schema/email"
+            elementFormDefault="qualified">
+    <xsd:element name="emailTemplate">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="from" type="xsd:string"/>
+                <xsd:element name="fromName" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="subject" type="xsd:string"/>
+                <xsd:element name="html" type="xsd:string"/>
+            </xsd:sequence>
+            <xsd:attribute name="id" type="xsd:string" use="required"/>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

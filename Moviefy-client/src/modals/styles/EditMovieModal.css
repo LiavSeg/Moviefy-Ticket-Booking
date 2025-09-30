@@ -1,0 +1,119 @@
+/* Backdrop: dimmed dark cinema hall */
+.emm-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75); /* darker overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  backdrop-filter: blur(4px); /* cinematic glass blur */
+}
+
+/* Modal box: dark panel with neon glow */
+.emm-modal {
+  background: #141414; /* dark gray */
+  color: #f4f4f4;
+  width: 480px;
+  max-width: calc(100% - 24px);
+  border-radius: 14px;
+  box-shadow: 0 0 30px rgba(0, 255, 128, 0.25); /* greenish glow */
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  animation: fadeInUp 0.3s ease-out;
+}
+
+.emm-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 18px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #ffb731; 
+}
+
+.emm-close {
+  background: transparent;
+  border: none;
+  font-size: 22px;
+  color: #aaa;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+.emm-close:hover {
+  color: #ff0000;
+}
+
+.emm-body {
+  padding: 16px;
+  display: grid;
+  gap: 14px;
+}
+.emm-row {
+  display: grid;
+  gap: 6px;
+}
+.emm-readonly {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+.emm-select, 
+.emm-input {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: #1d1d1d;
+  color: #f4f4f4;
+  font-size: 14px;
+  transition: border 0.2s ease, box-shadow 0.2s ease;
+}
+.emm-select:focus, 
+.emm-input:focus {
+  border-color: #00bb55;
+  box-shadow: 0 0 8px rgba(0, 187, 85, 0.5);
+  outline: none;
+}
+
+.emm-actions {
+  padding: 12px 16px;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.emm-btn {
+  padding: 9px 14px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+.emm-btn.primary {
+  background: #ffd92d;
+  color: #fff;
+}
+.emm-btn.primary:hover {
+  background: #00a84d;
+  transform: translateY(-1px);
+}
+.emm-btn.secondary {
+  background: rgba(255, 255, 255, 0.08);
+  color: #ddd;
+}
+.emm-btn.secondary:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

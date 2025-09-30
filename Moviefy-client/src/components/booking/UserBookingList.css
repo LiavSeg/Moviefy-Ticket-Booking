@@ -1,0 +1,71 @@
+.booking-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.booking-card {
+  background: #1f1f1f;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.booking-card:hover {
+  transform: scale(1.01);
+}
+
+.booking-header {
+  display: flex;
+  gap: 1rem;
+}
+
+.booking-poster {
+  width: 100px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.booking-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #f4f4f4;
+}
+
+.booking-info h4 {
+  margin: 0 0 0.5rem;
+  color: #ffc857;
+  font-size: 1.2rem;
+}
+
+.booking-extra {
+  margin-top: 0.8rem;
+  padding-left: 110px;
+  color: #ccc;
+  font-size: 0.95rem;
+}
+.ticket-button {
+  margin-top: 1rem;
+  padding: 10px 20px;
+  background-color: #ffc857;
+  color: #111;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.ticket-button:hover {
+  background-color: #ffb020;
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(255, 200, 87, 0.4);
+}
+.ticket-button[disabled] {
+  opacity: 0.6;
+  cursor: wait;
+}

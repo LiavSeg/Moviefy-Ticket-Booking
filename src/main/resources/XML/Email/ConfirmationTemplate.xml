@@ -1,0 +1,80 @@
+<template>
+    <from>moviefyservice@gmail.com</from>
+    <fromName>Moviefy</fromName>
+    <subject>Your Moviefy Booking Confirmation</subject>
+    <html><![CDATA[
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Moviefy Booking Confirmation</title>
+</head>
+<body style="margin:0;padding:0;background:#F3F4F6;font-family:Arial,Helvetica,sans-serif;color:#374151;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" style="padding:24px;">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0"
+               style="max-width:600px;background:#fff;border:1px solid #E5E7EB;border-radius:12px;overflow:hidden;">
+          <tr>
+            <td style="padding:24px 24px 0 24px;background:#fff;">
+              <div style="text-align:center;">
+                {{LOGO_BLOCK}}
+                <h1 style="margin:16px 0 0 0;font-size:22px;line-height:28px;color:#111827;font-weight:700;">
+                  Booking Confirmation
+                </h1>
+                <p style="margin:8px 0 0 0;font-size:14px;color:#374151;">
+                  Dear {{USER_NAME}}, Thank you for booking with Moviefy. Your reservation is confirmed.
+                </p>
+              </div>
+            </td>
+          </tr>
+          <tr><td><hr style="border:none;border-top:1px solid #E5E7EB;margin:0;"></td></tr>
+          <tr>
+            <td style="padding:20px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+                <tr>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;width:160px;color:#4F46E5;font-weight:700;font-size:14px;">Movie</td>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;font-size:14px;">{{MOVIE}}</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;width:160px;color:#4F46E5;font-weight:700;font-size:14px;">Date</td>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;font-size:14px;">{{DATE}}</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;width:160px;color:#4F46E5;font-weight:700;font-size:14px;">Time</td>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;font-size:14px;">{{TIME}}</td>
+                </tr>
+                {{ENDS_ROW}}
+                <tr>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;width:160px;color:#4F46E5;font-weight:700;font-size:14px;">Theater</td>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;font-size:14px;">{{THEATER}}</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;width:160px;color:#4F46E5;font-weight:700;font-size:14px;">Seats</td>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;font-size:14px;">{{SEATS}}</td>
+                </tr>
+                <tr>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;width:160px;color:#4F46E5;font-weight:700;font-size:14px;">Total</td>
+                  <td style="padding:10px 0;border-bottom:1px solid #E5E7EB;font-size:14px;">{{TOTAL}}</td>
+                </tr>
+              </table>
+              <p style="margin:16px 0 0 0;font-size:14px;color:#374151;">
+                Your ticket (PDF) is attached. Please arrive at least 15 minutes before the showtime and present the ticket at the entrance.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:16px 24px 24px 24px;background:#fff;">
+              <p style="margin:0;font-size:13px;color:#6B7280;">If you have any questions, reply to this email. We’re here to help.</p>
+              <p style="margin:8px 0 0 0;font-size:13px;color:#6B7280;">— The Moviefy Team</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+  ]]></html>
+</template>

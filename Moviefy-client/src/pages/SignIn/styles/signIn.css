@@ -1,0 +1,159 @@
+/* Root layout */
+.sign-in-page {
+  min-height: 100vh;
+  background-color: #121212;
+  color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Box containing the form */
+.sign-in-box {
+  background-color: #1e1e1e;
+  padding: 3rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  animation: popupFadeIn 0.3s ease-out;
+}
+
+/* Titles */
+.sign-in-title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.sign-in-subtitle {
+  font-size: 1rem;
+  color: #bbbbbb;
+  margin-bottom: 2rem;
+}
+
+/* Form layout */
+.sign-in-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.sign-in-form input {
+  padding: 0.9rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #2b2b2b;
+  color: white;
+  outline: none;
+  transition: border 0.2s ease;
+}
+
+.sign-in-form input:focus {
+  border: 1px solid #00bcd4;
+}
+
+.sign-in-form button {
+  padding: 0.9rem;
+  font-size: 1rem;
+  background-color: #00bcd4;
+  border: none;
+  border-radius: 8px;
+  color: #121212;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.sign-in-form button:hover {
+  background-color: #00acc1;
+}
+
+/* Link hint below form */
+.sign-in-hint {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #bbbbbb;
+}
+
+.sign-in-hint a {
+  color: #00bcd4;
+  text-decoration: none;
+}
+
+.sign-in-hint a:hover {
+  text-decoration: underline;
+}
+
+/* ADMIN POPUP MODAL */
+
+.admin-choice-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: popupFadeIn 0.3s ease-out forwards;
+}
+
+.admin-choice-box {
+  background: #ffffff;
+  color: #111;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  width: 340px;
+  max-width: 90%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.35);
+  animation: popupFadeIn 0.3s ease-out;
+}
+
+.admin-choice-box h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.6rem;
+}
+
+.admin-choice-box p {
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.admin-choice-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.admin-choice-buttons button {
+  padding: 0.6rem 1.4rem;
+  background-color: #1e3a5f;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.admin-choice-buttons button:hover {
+  background-color: #294e80;
+}
+
+/* Fade-in animation */
+@keyframes popupFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

@@ -1,0 +1,39 @@
+:root {
+  --primary-color: #333;
+  --background-color: #e4e4e4;
+  --shadow-elevation: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #fafafa;
+    --background-color: #121212;
+    --shadow-elevation: 0 2px 5px rgba(255,255,255,0.1)
+    --nav-bar 
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: var(--background-color);
+  color: var(--primary-color);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+
+}
+.footer {
+  display:block;
+  text-align: center;
+  padding: 1rem 2rem;
+  background-color: var(--header-bg);
+  color: var(--primary-color);
+
+  
+}

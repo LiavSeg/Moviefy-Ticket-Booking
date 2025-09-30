@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<movies>
+  <movie>
+    <title>Ballerina</title>
+    <genre>Action</genre>
+    <duration>120</duration>
+    <releaseDate>2025-06-04</releaseDate>
+    <language>English</language>
+    <description>Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=0FSwsrFpkbw</trailerUrl>
+  </movie>
+  <movie>
+    <title>Almost Cops</title>
+    <genre>Comedy</genre>
+    <duration>95</duration>
+    <releaseDate>2025-07-10</releaseDate>
+    <language>Dutch</language>
+    <description>When an overeager community officer and a reckless ex-detective are forced to team up, plenty of chaos ensues on the streets of Rotterdam.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=QsMBhTskZC8</trailerUrl></movie>
+  <movie>
+    <title>Dangerous Animals</title>
+    <genre>Thriller</genre>
+    <duration>100</duration>
+    <releaseDate>2025-06-05</releaseDate>
+    <language>English</language>
+    <description>A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/oQJ1PKLIE2gF5cr3xwjLCvv4jcU.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=WR2btzjmmuc</trailerUrl></movie>
+  <movie>
+    <title>28 Years Later</title>
+    <genre>Horror</genre>
+    <duration>115</duration>
+    <releaseDate>2025-06-18</releaseDate>
+    <language>English</language>
+    <description>Twenty-eight years since the rage virus escaped a biological weapons laboratory, now quarantined, some survive. One man journeys into the mainland and discovers terrifying new threats.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=mcvLKldPM08&amp;t=1s</trailerUrl></movie>
+  <movie>
+    <title>The Old Guard 2</title>
+    <genre>Action</genre>
+    <duration>118</duration>
+    <releaseDate>2025-07-01</releaseDate>
+    <language>English</language>
+    <description>Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=lyivgZ074PY</trailerUrl></movie>
+  <movie>
+    <title>Heads of State</title>
+    <genre>Action</genre>
+    <duration>105</duration>
+    <releaseDate>2025-07-02</releaseDate>
+    <language>English</language>
+    <description>The UK Prime Minister and US President are forced to ally after becoming targets of a powerful enemy, embarking on a wild international chase.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=8J646zM7UM8</trailerUrl></movie>
+  <movie>
+    <title>F1</title>
+    <genre>Drama</genre>
+    <duration>112</duration>
+    <releaseDate>2025-06-25</releaseDate>
+    <language>English</language>
+    <description>Racing legend Sonny Hayes comes out of retirement to lead a struggling Formula 1 team and mentor a young driver.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/6H6p82aWQFEKEuVUiZll6JxV8Ft.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=69ffwl-8pCU</trailerUrl></movie>
+  <movie>
+    <title>Saiyaara</title>
+    <genre>Romance</genre>
+    <duration>130</duration>
+    <releaseDate>2025-07-18</releaseDate>
+    <language>Hindi</language>
+    <description>Two artistic souls find harmony through music despite their contrasting worlds. Their love faces tests of age and fate.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/jymezcmEcFvlb037V4SSx8a4SMq.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=9r-tT5IN0vg</trailerUrl></movie>
+  <movie>
+    <title>Materialists</title>
+    <genre>Drama</genre>
+    <duration>103</duration>
+    <releaseDate>2025-06-12</releaseDate>
+    <language>English</language>
+    <description>A young NYC matchmaker finds herself torn between a perfect match and her messy ex.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=4A_kmjtsJ7c</trailerUrl></movie>
+  <movie>
+    <title>Saint Clare</title>
+    <genre>Horror</genre>
+    <duration>92</duration>
+    <releaseDate>2025-07-18</releaseDate>
+    <language>English</language>
+    <description>A woman is haunted by voices and driven to assassinate bad people — but one murder leads her into a web of corruption and spirits.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/aE0q4awk7zto3Eql4cAeJuVAns9.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=nwTKf9niMIU</trailerUrl></movie>
+  <movie>
+    <title>The Fantastic 4: First Steps</title>
+    <genre>Sci-Fi</genre>
+    <duration>125</duration>
+    <releaseDate>2025-07-23</releaseDate>
+    <language>English</language>
+    <description>Marvel's First Family must defend Earth from Galactus while maintaining their family bond in a retro-futuristic 1960s world.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=18QQWa5MEcs</trailerUrl></movie>
+  <movie>
+    <title>Happy Gilmore 2</title>
+    <genre>Comedy</genre>
+    <duration>98</duration>
+    <releaseDate>2025-07-25</releaseDate>
+    <language>English</language>
+    <description>Happy Gilmore returns to the golf course years after retirement to support his daughter's dreams, facing new rivals and old challenges.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=YKzRPFvky9Y</trailerUrl></movie>
+  <movie>
+    <title>Bride Hard</title>
+    <genre>Action</genre>
+    <duration>110</duration>
+    <releaseDate>2025-06-19</releaseDate>
+    <language>English</language>
+    <description>A secret agent fights to save a wedding party from mercenaries while trying to keep her identity secret and avoid ruining the ceremony.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=FGT6ZCgL060</trailerUrl></movie>
+  <movie>
+    <title>Superman</title>
+    <genre>Action</genre>
+    <duration>132</duration>
+    <releaseDate>2025-07-09</releaseDate>
+    <language>English</language>
+    <description>Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=Ox8ZLF6cGM0</trailerUrl></movie>
+  <movie>
+    <title>Ice Road: Vengeance</title>
+    <genre>Thriller</genre>
+    <duration>107</duration>
+    <releaseDate>2025-06-27</releaseDate>
+    <language>English</language>
+    <description>Ice road trucker Mike McCann must save a busload of tourists after a mercenary ambush in the Nepalese mountains.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/cQN9rZj06rXMVkk76UF1DfBAico.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=K6lJh9ADfbQ</trailerUrl></movie>
+  <movie>
+    <title>Karate Kid: Legends</title>
+    <genre>Action</genre>
+    <duration>113</duration>
+    <releaseDate>2025-05-08</releaseDate>
+    <language>English</language>
+    <description>Kung fu prodigy Li Fong must adapt to a new life in New York and train with Daniel LaRusso to blend karate and kung fu for a final showdown.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/AEgggzRr1vZCLY86MAp93li43z.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=LhRXf-yEQqA</trailerUrl></movie>
+  <movie>
+    <title>Jurassic World Rebirth</title>
+    <genre>Sci-Fi</genre>
+    <duration>129</duration>
+    <releaseDate>2025-07-01</releaseDate>
+    <language>English</language>
+    <description>A covert mission to retrieve dinosaur DNA becomes a fight for survival on a deadly island full of genetic secrets.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=jan5CFWs9ic</trailerUrl></movie>
+  <movie>
+    <title>How to Train Your Dragon</title>
+    <genre>Fantasy</genre>
+    <duration>104</duration>
+    <releaseDate>2025-06-06</releaseDate>
+    <language>English</language>
+    <description>Viking Hiccup forms a secret bond with a dragon, challenging the tradition of dragon hunting on the isle of Berk.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=22w7z_lT6YM</trailerUrl></movie>
+  <movie>
+    <title>Demon Slayer: Infinity Castle</title>
+    <genre>Fantasy</genre>
+    <duration>112</duration>
+    <releaseDate>2025-07-18</releaseDate>
+    <language>Japanese</language>
+    <description>Tanjiro and the Hashira fall into the Infinity Castle, the demon stronghold, for the ultimate battle against Muzan Kibutsuji.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=x7uLutVRBfI</trailerUrl></movie>
+  <movie>
+    <title>M3GAN 2.0</title>
+    <genre>Sci-Fi</genre>
+    <duration>101</duration>
+    <releaseDate>2025-06-25</releaseDate>
+    <language>English</language>
+    <description>When her AI tech is militarized, Gemma resurrects M3GAN to stop a new robotic threat before it becomes unstoppable.</description>
+    <imageUrl>https://image.tmdb.org/t/p/w500/oekamLQrwlJjRNmfaBE4llIvkir.jpg</imageUrl>
+    <trailerUrl>https://www.youtube.com/watch?v=IYLHdEzsk1s</trailerUrl></movie>
+</movies>
